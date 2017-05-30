@@ -1,0 +1,15 @@
+.cliker{
+	background-color: #ff8055;
+	width: 80px;
+	height: 80px;
+	border-radius: 50%;
+	padding: 10px;
+	margin: 10px;
+	text-align: center;
+}
+
+.cliker span{
+	color: #fff;
+	font-size: 22px;
+	margin-top: 5px;
+}
